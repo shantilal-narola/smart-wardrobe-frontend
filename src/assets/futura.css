@@ -1,0 +1,42 @@
+@font-face {
+	font-family: 'Futura';
+	src: url('fonts/futura/FuturaPTLight.eot') format('eot'), url('fonts/futura/FuturaPTLight.woff') format('woff'), url('fonts/futura/FuturaPTLight.ttf') format('truetype'), url('fonts/futura/FuturaPTLight.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Futura';
+	src: url('fonts/futura/FuturaPTBook.eot') format('eot'), url('fonts/futura/FuturaPTBook.woff') format('woff'), url('fonts/futura/FuturaPTBook.ttf') format('truetype'), url('fonts/futura/FuturaPTBook.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Futura';
+	src: url('fonts/futura/FuturaPTDemi.eot') format('eot'), url('fonts/futura/FuturaPTDemi.woff') format('woff'), url('fonts/futura/FuturaPTDemi.ttf') format('truetype'), url('fonts/futura/FuturaPTDemi.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Futura';
+	src: url('fonts/futura/FuturaPTMedium.eot') format('eot'), url('fonts/futura/FuturaPTMedium.woff') format('woff'), url('fonts/futura/FuturaPTMedium.ttf') format('truetype'), url('fonts/futura/FuturaPTMedium.svg') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Futura';
+	src: url('fonts/futura/FuturaPTBold.eot') format('eot'), url('fonts/futura/FuturaPTBold.woff') format('woff'), url('fonts/futura/FuturaPTBold.ttf') format('truetype'), url('fonts/futura/FuturaPTBold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Futura';
+	src: url('fonts/futura/FuturaPTHeavy.eot') format('eot'), url('fonts/futura/FuturaPTHeavy.woff') format('woff'), url('fonts/futura/FuturaPTHeavy.ttf') format('truetype'), url('fonts/futura/FuturaPTHeavy.svg') format('svg');
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Futura';
+	src: url('fonts/futura/FuturaPTExtraBold.eot') format('eot'), url('fonts/futura/FuturaPTExtraBold.woff') format('woff'), url('fonts/futura/FuturaPTExtraBold.ttf') format('truetype'), url('fonts/futura/FuturaPTExtraBold.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
